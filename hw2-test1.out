@@ -1,0 +1,5 @@
+Tokens from file hw2-test1.pl0
+Number Name       Line Column Text/Value
+17     skipsym    2    1      "skip"
+0      periodsym  2    5      "."
+33     eofsym     3    1     

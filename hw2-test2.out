@@ -1,0 +1,28 @@
+Tokens from file hw2-test2.pl0
+Number Name       Line Column Text/Value
+1      constsym   9    1      "const"
+21     identsym   9    7      "big"
+23     eqsym      9    11     "="
+22     numbersym  9    13     12345
+3      commasym   9    18     ","
+21     identsym   9    20     "two"
+23     eqsym      9    24     "="
+22     numbersym  9    26     2
+2      semisym    9    27     ";"
+4      varsym     10   1      "var"
+21     identsym   10   5      "x"
+3      commasym   10   6      ","
+21     identsym   10   8      "y"
+3      commasym   10   9      ","
+21     identsym   10   11     "z"
+2      semisym    10   12     ";"
+5      procsym    11   1      "procedure"
+21     identsym   11   11     "id"
+2      semisym    11   13     ";"
+8      beginsym   11   15     "begin"
+21     identsym   11   21     "x"
+6      becomessym 11   23     ":="
+21     identsym   11   26     "x"
+9      endsym     11   28     "end"
+0      periodsym  11   31     "."
+33     eofsym     12   1     

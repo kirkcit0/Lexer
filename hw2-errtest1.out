@@ -1,0 +1,4 @@
+Tokens from file hw2-errtest1.pl0
+Number Name       Line Column Text/Value
+21     identsym   2    1      "let"
+hw2-errtest1.pl0: line 2, column 4: Illegal character ''' (047)

@@ -1,0 +1,3 @@
+Tokens from file hw2-errtest4.pl0
+Number Name       Line Column Text/Value
+hw2-errtest4.pl0: line 2, column 28: File ended while reading comment!

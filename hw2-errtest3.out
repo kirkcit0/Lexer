@@ -1,0 +1,13 @@
+Tokens from file hw2-errtest3.pl0
+Number Name       Line Column Text/Value
+4      varsym     2    1      "var"
+21     identsym   2    5      "bad"
+3      commasym   2    8      ","
+21     identsym   2    10     "okay"
+2      semisym    2    14     ";"
+21     identsym   3    1      "okay"
+23     eqsym      3    6      "="
+22     numbersym  3    8      13
+2      semisym    3    10     ";"
+21     identsym   4    1      "bad"
+hw2-errtest3.pl0: line 4, column 6: Expecting '=' after a colon, not ' '
